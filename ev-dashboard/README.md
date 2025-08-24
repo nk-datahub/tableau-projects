@@ -1,4 +1,5 @@
-<video controls width="100%">
-  <source src="video/story-compressed.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## 🎥 Story Walkthrough
+
+Click the thumbnail below to watch the recorded walkthrough of the dashboard:
+
+[![Watch the story](video/thumbnail.png)](video/story-compressed.mp4)
